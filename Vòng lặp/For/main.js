@@ -1,5 +1,14 @@
-for (let i = 1; i <= 1000; i++){
-    console.log(i);
+var myArray  = [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'C++'
+];
+
+var arrayLength = myArray.length;
+
+for (let i = 0; i < arrayLength; i++){
+    console.log(myArray[i]);
 }
 
 
