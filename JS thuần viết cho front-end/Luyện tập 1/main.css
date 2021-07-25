@@ -1,0 +1,6 @@
+.card{
+    transition: 0.4s;
+}
+.move_right{
+    transform: translateX(485px);
+}
